@@ -41,6 +41,9 @@
 
         ex: git push
         
+* Note: 
+  * To remove locally saved credentials: git config credential.helper ""
+  * To edit the config details: git config --global --edit
         
  # Bitbucket
  
